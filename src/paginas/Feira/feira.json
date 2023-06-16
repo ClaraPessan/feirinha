@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "Tomate",
+    "foto": "/assets/tomate.jpg",
+    "valor": 4.80,
+    "id": "1"
+  },
+  {
+    "nome": "Brócolis",
+    "foto": "/assets/brocolis.jpg",
+    "valor": 2.50,
+    "id": "2"
+  },
+  {
+    "nome": "Batata",
+    "foto": "/assets/batata.jpg",
+    "valor": 3.60,
+    "id": "3"
+  },
+  {
+    "nome": "Pepino",
+    "foto": "/assets/pepino.png",
+    "valor": 1.80,
+    "id": "4"
+  },
+  {
+    "nome": "Maçã",
+    "foto": "/assets/maca.jpg",
+    "valor": 3.90,
+    "id": "5"
+  },
+  {
+    "nome": "Banana",
+    "foto": "/assets/banana.jpg",
+    "valor": 3.99,
+    "id": "6"
+  }
+]
